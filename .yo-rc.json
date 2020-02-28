@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.campusdocs.bf",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "monolith",
+    "baseName": "campusdocs",
+    "packageName": "com.campusdocs.bf",
+    "packageFolder": "com/campusdocs/bf",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YzNiZjdhN2ZlNzhmMDI4OTZjYmU3NDA1ODYyMDc2NmM2Y2QzOTcwZDkwZTVmNDM0YzNmY2EwZTg0Zjc3NzY1OTJhYTIzNjcyNTgyYzIxYjg5YWQ3ZWQxZDk0ODc1MzAyMGVlOTg4YjJjNjNjZjBkMThlMTkwMjUzZjdjZjg5MDU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "sketchy",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1582812403638,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr", "en"],
+    "blueprints": []
+  }
+}
