@@ -42,8 +42,11 @@ spring:
       indent-output: true
   data:
     mongodb:
-      uri: mongodb://localhost:27017
-      database: campus
+        host: ds133450.mlab.com
+        port: 33450
+        database: heroku_mglzrm5q
+        username: campus
+        password: campus@20
     elasticsearch:
       properties:
         path:
